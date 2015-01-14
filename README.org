@@ -1,0 +1,4 @@
+#+title: KSP Tweaks
+#+startup: hidestars
+
+Put the contents into GameData/TRC/ksp-tweaks/ or something.
