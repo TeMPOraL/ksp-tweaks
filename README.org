@@ -1,4 +1,8 @@
 #+title: KSP Tweaks
 #+startup: hidestars
 
-Put the contents into GameData/TRC/ksp-tweaks/ or something.
+You know where it goes :).
+
+So far the following tweaks are implemented:
+
+- aviation-lights-kas-grabbable.cfg - make lights from Aviation Lights mod grabbable in KAS, so you can add them in EVA. Based on [[http://forum.kerbalspaceprogram.com/threads/16925-0-90-Aviation-Lights-v3-7-%2816DEC14%29?p=1367816&viewfull=1#post1367816][this forum post]].
